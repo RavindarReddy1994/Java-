@@ -9,7 +9,7 @@ public class Notes {
 	public Notes() {
 		
 	}
-	
+	 
 	public Notes(int id, String name, String school) {
 		this.id = id;
 		this.name = name;
